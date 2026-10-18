@@ -1,0 +1,17 @@
+Check                                                 Python                 Excel  Result
+--------------------------------------------------------------------------------------------
+Volatility observations                                  891                   891  PASS
+Max abs diff: usdkrw_adj                            0.00e+00                     -  PASS
+Max abs diff: log_return                            4.99e-10                     -  PASS
+Max abs diff: rolling_vol                           5.00e-10                     -  PASS
+Max abs diff: annualised_vol                        5.00e-10                     -  PASS
+P50 threshold                                    0.085023510           0.085023510  PASS
+P80 threshold                                    0.111276672           0.111276672  PASS
+Regime label mismatches                                    0                     0  PASS
+Stable days                                              445                   445  PASS
+Watch days                                               267                   267  PASS
+Stress days                                              179                   179  PASS
+Regime switches                                           67                    67  PASS
+Peak volatility date                              2025-05-27            2025-05-27  PASS
+--------------------------------------------------------------------------------------------
+ALL CHECKS PASSED
