@@ -123,3 +123,5 @@ usdkrw-volatility-regime-analysis/
 
 *Data source: Board of Governors of the Federal Reserve System (US), South Korean Won to U.S. Dollar Spot
 Exchange Rate [DEXKOUS], retrieved from FRED, Federal Reserve Bank of St. Louis.*
+
+*Author: Nia Lee. Python implementation developed with AI assistance; regime design and validation by the author*
